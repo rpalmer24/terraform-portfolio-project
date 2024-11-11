@@ -18,3 +18,4 @@ fast loading times for a global audience.
 - **AWS CloudFront**
 
 
+<img width="583" alt="cloudfront_nextjs" src="https://github.com/user-attachments/assets/7f645538-1c8a-4976-9671-5cb9983d3b4c">
