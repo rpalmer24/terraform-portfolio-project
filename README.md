@@ -4,7 +4,7 @@
 Deploy a simple website for a client **James Smith**, a freelance web designer.
 He wants an online portfolio to display his work and attract more clients. He has designed a responsive website
 using Next.js framework. 
-James wants his website to be hose on a cost-effective, highly available, and scalable platform with 
+James wants his website to be hosted on a cost-effective, highly available, and scalable platform with 
 fast loading times for a global audience.
 
 ## Goal 
