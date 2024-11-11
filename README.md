@@ -8,12 +8,12 @@ James wants his website to be hose on a cost-effective, highly available, and sc
 fast loading times for a global audience.
 
 ## Goal 
-Built a simple **Next.js** website and
-Deployed it on **Amazon AWS** using **IaC** with **Terraform**.
+- Built a simple **Next.js** website and
+- Deployed it on **Amazon AWS** using **IaC** with **Terraform**.
 
 ## Technology Used
-**Terraform**
-**Next.js**
-**AWS S3**
-**AWS CloudFront**
+- **Terraform**
+- **Next.js**
+- **AWS S3**
+- **AWS CloudFront**
 
